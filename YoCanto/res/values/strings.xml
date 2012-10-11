@@ -4,5 +4,7 @@
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
     <string name="title_activity_yo_canto">YoCantoActivity</string>
+    <string name="tv_entrada">Entrada</string>
+    <string name="tv_gloria">Gloria</string>
 
 </resources>
